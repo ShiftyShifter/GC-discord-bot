@@ -129,7 +129,7 @@ dmypy.json
 .pyre/
 
 # repl.it
-.replet
+.replit
 replit.nix
 poetry.lock
 pyproject.toml
